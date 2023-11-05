@@ -1,1 +1,1 @@
-export const teamData = ['CT.png','FPE.png','IBL.webp','omas.png']
+export const teamData = ['omas.png', 'IBL.webp', 'CT.png','FPE.png']
